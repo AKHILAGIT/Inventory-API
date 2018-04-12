@@ -6,7 +6,7 @@ RESTful web services are built to work best on the Web. Representational State T
 The PUT, GET, POST and DELETE methods are typical used in REST based architectures.T - Requests data from a specified resource
 
 ### REQUIREMENTS
-JAX-RS, Jersey, MAVEN, SPRINGS
+JAX-RS, Jersey, MAVEN
 
 ### DEPLOYING AND RUNNING
 1. Create a dynamic web project in eclipse
